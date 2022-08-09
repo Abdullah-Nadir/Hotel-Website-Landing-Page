@@ -1,0 +1,93 @@
+
+
+/* NAVBAR */
+
+.navbar-brand {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-left: 40px;
+}
+
+.navbar-collapse {
+  padding-right: 50px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+/* TITLE SECTION */
+
+.header-section {
+  margin: 70px auto;
+}
+
+.title {
+  background-image: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+  margin: 0 6%;
+}
+
+.title-heading {
+  font-size: 4rem;
+  margin: 10px auto 30px;
+}
+
+.sub-heading {
+  margin-bottom: 30px;
+}
+
+/* ABOUT US */
+
+.About-us {
+  background-image: url(https://images.unsplash.com/photo-1531685250784-7569952593d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80);
+}
+
+.info-heading {
+  margin-bottom: 30px;
+}
+
+/* UL LISTS */
+
+ul {
+  color: #BBBBBB;
+}
+
+/* CONTACT SECTION */
+
+.contact-us {
+  background-color: #DDDDDD;
+}
+
+.contact-heading {
+  padding-bottom: 30px;
+}
+
+/* FOOTER SECTION */
+
+.footer {
+  margin: 5% 15%;
+  text-align: center;
+  line-height: 2.5;
+}
+
+.footer-icon {
+  margin: 8px;
+}
+
+.para-footer {
+  color: #BBBBBB;
+  font-size: 1rem;
+}
+
+
+.b-example-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
